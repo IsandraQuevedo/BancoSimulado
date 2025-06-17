@@ -28,7 +28,6 @@ En esta demostración, se observa el flujo completo del cajero automático. Tras
 * **Retiros:** Demostración de extracciones de efectivo, incluyendo el límite máximo diario.
 * **Gestión de errores:** Prueba de una transacción con un monto superior al saldo disponible, mostrando la validación de seguridad.
 * **Historial de transacciones:** Visualización detallada de todos los movimientos de la cuenta.
-![Captura de pantalla del sistema]()
 Accede al siguiente link de Youtube para ver la demostración 👉 (https://www.youtube.com/watch?v=yRlqixxkXmk)
 
 ## 📝 Requisitos
