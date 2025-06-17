@@ -28,7 +28,8 @@ En esta demostración, se observa el flujo completo del cajero automático. Tras
 * **Retiros:** Demostración de extracciones de efectivo, incluyendo el límite máximo diario.
 * **Gestión de errores:** Prueba de una transacción con un monto superior al saldo disponible, mostrando la validación de seguridad.
 * **Historial de transacciones:** Visualización detallada de todos los movimientos de la cuenta.
-![Demostración del sistema](https://youtu.be/yRlqixxkXmk)
+![Captura de pantalla del sistema]()
+Accede al siguiente link de Youtube para ver la demostración 👉 (https://www.youtube.com/watch?v=yRlqixxkXmk)
 
 ## 📝 Requisitos
 
@@ -49,12 +50,12 @@ python cajero_automatico.py
  ```
 4. Abre el archivo .pbix en Power BI para ver los gráficos.
 
-##✍️ Autora
+## ✍️ Autora
 
 Isandra Quevedo
 Estudiante de informática con interés en desarrollo de software, análisis de datos,automatización y paginas web
 📧 quevedoisandra@gmail.com
 
-##📄 Licencia
+## 📄 Licencia
 
 Este proyecto es educativo.
